@@ -16,7 +16,7 @@
 
     $ go get go.mongodb.org/mongo-driver/mongo
 
---> Fiber as a Xeb framework for Golang
+--> Fiber as a Web framework for Golang
 
     $ go get github.com/gofiber/fiber/<version>    --- not sure about the version
 
