@@ -1,0 +1,2 @@
+GET http://localhost:5000/api/v1/room
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RAdy5jb20iLCJleHBpcmVzIjoxNzEyMDM4NDc4MDY4LCJpZCI6IjY2MDk4OWNlYmU2YzE5Y2JhZDk0N2VmNiJ9.rGGOYfusOZ-oYkiR_UiSaPkzmlhSpKahqX9a6y39RO0

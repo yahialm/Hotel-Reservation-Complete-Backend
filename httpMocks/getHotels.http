@@ -1,0 +1,2 @@
+GET http://localhost:5000/api/v1/hotel
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InlhaGlhQGdtLmNvbSIsImV4cGlyZXMiOjE3MTE4NTg2NTE0MTgzNjgzMDAsImlkIjoiNjYwODVmODg5MzQxMjRkYjIyNTA1YmZlIn0.N-V0RLoRkFEBdttisCDhjr7lkt-erCtYXhku4XbaXiQ

@@ -1,0 +1,23 @@
+# Hotel reservation
+
+
+
+## outline 
+--> Users
+--> Admins
+--> User and Admin authentication ----- JWT tokens
+--> Rooms CRUD API -- JSON
+--> Hotels CRUD API -- JSON
+--> Scripts -> Database management -> seeding, migration (MongoDB)
+
+## Librairies
+
+--> MongoDB as database
+
+    $ go get go.mongodb.org/mongo-driver/mongo
+
+--> Fiber as a Xeb framework for Golang
+
+    $ go get github.com/gofiber/fiber/<version>    --- not sure about the version
+
+--> Docker to build the image for our project

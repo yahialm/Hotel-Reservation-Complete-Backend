@@ -1,0 +1,2 @@
+GET http://localhost:5000/api/v1/booking/6618dbd3d12aab01ffbb21cc
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InlhaGlhQGdtLmNvbSIsImV4cGlyZXMiOjE3MTI5MTkwODk0MTEsImlkIjoiNjYwYmYwNDAxMDA1YTczODFhMDg3ZDJjIn0.xd80y_9FkToBIDFsc9Qr1nWPSLfQzWogeZ3pyaAs90o

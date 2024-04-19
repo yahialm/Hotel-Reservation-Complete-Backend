@@ -1,0 +1,9 @@
+POST http://localhost:5000/api/v1/room/66085f88934124db22505bf6/book
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InlhaGlhQGdtLmNvbSIsImV4cGlyZXMiOjE3MTI5MTkwODk0MTEsImlkIjoiNjYwYmYwNDAxMDA1YTczODFhMDg3ZDJjIn0.xd80y_9FkToBIDFsc9Qr1nWPSLfQzWogeZ3pyaAs90o
+Content-Type: application/json
+
+{
+    "fromDate": "2025-04-27T00:00:00.0Z",
+    "tillDate": "2025-05-28T00:00:00.0Z",
+    "numbPers": 6
+}

@@ -1,0 +1,10 @@
+POST http://localhost:5000/api/v1/user
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InlhaGlhQGdtLmNvbSIsImV4cGlyZXMiOjE3MTE5MTExNjg0MjMsImlkIjoiNjYwODVmODg5MzQxMjRkYjIyNTA1YmZlIn0.USSvK7VC7-EOJPmbP6r0zRShdccQ6pBucvXcS-8I_ic
+
+{
+    "firstName": "yahialamhafadpeace",
+    "lastName": "laaaaaa",
+    "email": "test@w.com",
+    "password": "shiithstss"
+}
